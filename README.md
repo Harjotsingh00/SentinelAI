@@ -79,10 +79,6 @@ All five agents are orchestrated as a real `google.adk.agents.SequentialAgent`, 
 | Live Data | OpenWeather API |
 | Deployment | Vercel (frontend) · Render (backend) |
 
-## 📸 Screenshots
-
-> _Add dashboard screenshots/GIFs here before submitting — recruiters and judges look at this first._
-
 ## 🚀 Getting Started
 
 ### Prerequisites
